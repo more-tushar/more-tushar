@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tusharmore660@gmail.com**
 
-- 📄 Here is my [RESUME](https://drive.google.com/file/d/1wgOdEYPys0Jk6L-z9hkMFY5FRUgZ-mJo/view?usp=drive_link)
+- 📄 Here is my [RESUME]
 
 <!-- - 📄 Here is my [Portfolio](https://tusharmore.github.io/My__Portfolio/iPortfolio/index.html) -->
 
