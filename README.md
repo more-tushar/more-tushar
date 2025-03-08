@@ -6,7 +6,7 @@
 <a href="mailto:tusharmore660@gmail.com"> Email </a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/tushar-more-717822140/" target="blank"
     ><img
       align="center"
@@ -14,7 +14,7 @@
       alt="nayan-tank"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
   <a href="https://www.instagram.com/ci_cd_rider/" target="blank"
     ><img
       align="center"
