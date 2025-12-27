@@ -1,177 +1,23 @@
-<h1 align="center">Hi there!👋 I'm Tushar</h1>
+# Tushar More
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharmore&label=Profile%20views&color=0e75b6&style=flat" alt="tusharmore" /> </p>
-<h3 align="center">A DevOps Engineer from India.</h3>
-- Talk about **DevOps, Cloud, Security & Development** 
-- Shoot me an
-<a href="mailto:tusharmore660@gmail.com"> Email </a>
+# 💫 About Me:
+🔭 I’m currently working on System Administration, IT operations, user account provisioning (Outlook/email), and Linux server monitoring & automation   <br>
+👯 I’m looking to collaborate on DevOps, cloud automation, and open-source projects  <br>  
+🤝 I’m looking for help with Kubernetes, Terraform, and scalable cloud architecture  <br> 
+🌱 I’m currently learning AWS advanced services, Docker, and Kubernetes   <br>
+💬 Ask me about Linux, Shell Scripting, System Administration, Server Monitoring, and AWS and Odoo.sh   <br>
+⚡ Fun fact: I love automating manual IT tasks to save time and avoid mistakes 😄
 
-<h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/tushar-more-717822140/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="nayan-tank"
-      height="30"
-      width="40"
-  /></a> -->
-  <a href="https://www.instagram.com/ci_cd_rider/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/ci_cd_rider/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/Tusharm1377" target="blank">
-  <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="tusharmore"
-      height="30"
-      width="40"/>  
-      </a>
-   <a href="https://www.hackerrank.com/tusharmore660" target="blank">
-  <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="tusharmore"
-      height="30"
-      width="40"/>  
-      </a>
-</p>
 
-<h3 align="left">DevOps :</h3>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-    alt="bash"
-    width="40"
-    height="40"
-  /></a>
-<a href="" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
-    alt="ansible"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
-    alt="terraform"
-    width="40"
-    height="40"
-  /></a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-  alt="linux"
-   width="40"
-    height="40"/>
-  </a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ci_cd_rider) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-more-717822140/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tusharm1377) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharmore660@gmail.com) 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-    alt="jenkins"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-    alt="kubernetes"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
-    width="40"
-    height="40"
-  />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=more-tushar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=more-tushar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=more-tushar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <h3 align="left">Languages:</h3>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-      /> </a>     
-  </p>
-
-  <h3 align="left">Backend Frameworks:</h3>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />  </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-      alt="postman"
-      width="40" 
-      height="40"/> 
-    </a>
-
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />  </a>
-
-  <h3 align="left">Databases:</h3>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-    alt="oracle"
-    width="40"
-    height="40"
-  /></a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-  alt="postgresql"
-   width="40" 
-   height="40"/> 
-  </a>
+---
+[![](https://visitcount.itsvg.in/api?id=more-tushar&icon=0&color=0)](https://visitcount.itsvg.in)
