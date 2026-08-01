@@ -1,7 +1,7 @@
 # Tushar More
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharmore&label=Profile%20views&color=0e75b6&style=flat" alt="tusharmore" /> </p>
 # 💫 About Me:
-🔭 I’m currently working on System Administration, IT operations, user account provisioning (Outlook/email), and Linux server monitoring & automation   <br>
+🔭 I’m currently working on DevOps Engineer, IT operations, user account provisioning (Outlook/email), and Linux server monitoring & automation   <br>
 👯 I’m looking to collaborate on DevOps, cloud automation, and open-source projects  <br>  
 🤝 I’m looking for help with Kubernetes, Terraform, and scalable cloud architecture  <br> 
 🌱 I’m currently learning AWS advanced services, Docker, and Kubernetes   <br>
